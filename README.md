@@ -51,5 +51,3 @@ Ini adalah proyek **dashboard analisis penggunaan sepeda** menggunakan **Streaml
     streamlit run app.py
     ```
 
-    - Aplikasi akan berjalan di browser, dan Anda bisa melihat dashboard di URL:
-    ```
