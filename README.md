@@ -1,5 +1,3 @@
-# BIKE SHARING Dashboard ✨
-
 # Bike Sharing Dashboard
 
 Ini adalah proyek **dashboard analisis penggunaan sepeda** menggunakan **Streamlit**. Aplikasi ini memberikan berbagai visualisasi yang membantu memahami pola penggunaan sepeda berdasarkan cuaca, musim, dan tipe pengguna (casual vs registered).
