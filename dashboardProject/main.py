@@ -8,7 +8,7 @@ st.sidebar.markdown("### Analisis Penggunaan Sepeda")
 
 date_range = st.sidebar.date_input("Pilih Rentang Waktu", [])
 
-day_data = pd.read_csv('day.csv')
+day_data = pd.read_csv('dashboardProject/day.csv')
 
 day_data['dteday'] = pd.to_datetime(day_data['dteday'])
 
