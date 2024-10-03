@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.sidebar.image("download.png", use_column_width=True)  # Gambar di sidebar
 st.sidebar.title("Bike Sharing Dashboard")
 st.sidebar.markdown("### Analisis Penggunaan Sepeda")
 
